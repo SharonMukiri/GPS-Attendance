@@ -1,6 +1,6 @@
 # Flutter
 
-A modern Flutter-based mobile application utilizing the latest mobile development technologies and tools for building responsive cross-platform applications.
+A Flutter-based mobile application for marking class attendance using geofencing.
 
 ## 📋 Prerequisites
 
@@ -61,9 +61,9 @@ class AppRoutes {
 }
 ```
 
-## 🎨 Theming
+## Theming
 
-This project includes a comprehensive theming system with both light and dark themes:
+This project includes both light and dark themes:
 
 ```dart
 // Access the current theme
@@ -82,7 +82,7 @@ The theme configuration includes:
 
 ## 📱 Responsive Design
 
-The app is built with responsive design using the Sizer package:
+The app is built with a responsive design using the Sizer package:
 
 ```dart
 // Example of responsive sizing
@@ -104,9 +104,3 @@ flutter build apk --release
 flutter build ios --release
 ```
 
-## 🙏 Acknowledgments
-- Built with [Rocket.new](https://rocket.new)
-- Powered by [Flutter](https://flutter.dev) & [Dart](https://dart.dev)
-- Styled with Material Design
-
-Built with ❤️ on Rocket.new
